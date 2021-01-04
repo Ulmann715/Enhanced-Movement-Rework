@@ -4,106 +4,132 @@
 		<Key ID="STR_EMR_Main_EnhancedMovementRework">
 			<English>Enhanced Movement Rework</English>
 			<Japanese>Enhanced Movement Rework</Japanese>
+			<Russian>Enhanced Movement Rework</Russian>
 		</Key>
 		<Key ID="STR_EMR_Main_Keybind_AIOAction">
 			<English>All-in-one action</English>
 			<Japanese>両方を行う</Japanese>
+			<Russian>Всё-в-одном</Russian>
 		</Key>
 		<Key ID="STR_EMR_Main_Keybind_ClimbDropOnly">
 			<English>Climb/drop only</English>
 			<Japanese>よじ登りのみを行う</Japanese>
+			<Russian>Только подъём/спуск</Russian>
 		</Key>
 		<Key ID="STR_EMR_Main_Keybind_JumpOnly">
 			<English>Jump only</English>
 			<Japanese>ジャンプのみを行う</Japanese>
+			<Russian>Только прыжок</Russian>
 		</Key>
 		<Key ID="STR_EMR_Main_Keybind_HolsterWeapon">
 			<English>Holster weapon</English>
 			<Japanese>武器をしまう</Japanese>
+			<Russian>Оружие в кобуру</Russian>
 		</Key>
 		<Key ID="STR_EMR_Main_SettingCategory_Core">
 			<English>Core</English>
 			<Japanese>基礎設定</Japanese>
+			<Russian>Основные</Russian>
 		</Key>
 		<Key ID="STR_EMR_Main_SettingCategory_Preferences">
 			<English>Preferences</English>
 			<Japanese>環境設定</Japanese>
+			<Russian>Предпочтения</Russian>
 		</Key>
 		<Key ID="STR_EMR_Main_SettingCategory_Stamina">
 			<English>Stamina</English>
 			<Japanese>スタミナ設定</Japanese>
+			<Russian>Выносливость</Russian>
 		</Key>
 		<Key ID="STR_EMR_Main_SettingCategory_Weight">
 			<English>Weight</English>
 			<Japanese>重量設定</Japanese>
+			<Russian>Вес</Russian>
 		</Key>
 		<Key ID="STR_EMR_Main_SettingDisplayName_climbingEnabled">
 			<English>Enable climbing/dropping</English>
 			<Japanese>よじ登り機能の有効化</Japanese>
+			<Russian>Включить подъём/спуск</Russian>
 		</Key>
 		<Key ID="STR_EMR_Main_SettingDescription_climbingEnabled">
 			<English>Global toggle for climbing and dropping actions</English>
 			<Japanese>よじ登ったり、飛び降りたりする機能を有効化します。</Japanese>
+			<Russian>Глобальный переключатель для подъёма и спуска</Russian>
 		</Key>
 		<Key ID="STR_EMR_Main_SettingDisplayName_jumpingEnabled">
 			<English>Enable jumping</English>
 			<Japanese>ジャンプ機能の有効化</Japanese>
+			<Russian>Включить прыжки</Russian>
 		</Key>
 		<Key ID="STR_EMR_Main_SettingDescription_jumpingEnabled">
 			<English>Global toggle for the jump action</English>
 			<Japanese>ジャンプする機能を有効化します。</Japanese>
+			<Russian>Глобальный переключатель для прыжков</Russian>
 		</Key>
 		<Key ID="STR_EMR_Main_SettingDisplayName_maxClimbHeight">
 			<English>Maximum climb height</English>
 			<Japanese>よじ登りの高度制限</Japanese>
+			<Russian>Максимальная высота для подъёма</Russian>
 		</Key>
 		<Key ID="STR_EMR_Main_SettingDescription_maxClimbHeight">
 			<English>Maximum height that a player can reach to climb on/over objects</English>
 			<Japanese>プレイヤーがよじ登ることができるオブジェクトの高さの最大値です。</Japanese>
+			<Russian>Максимальная высота для объектов, на которые может залезть игрок</Russian>
 		</Key>
 		<Key ID="STR_EMR_Main_SettingDisplayName_maxDropHeight">
 			<English>Maximum drop height</English>
 			<Japanese>飛び降りの高度制限</Japanese>
+			<Russian>Максимальная высота для спуска</Russian>
 		</Key>
 		<Key ID="STR_EMR_Main_SettingDescription_maxDropHeight">
 			<English>Maximum height that a player can drop from</English>
 			<Japanese>プレイヤーが飛び降りることができるオブジェクトの高さの最大値です。</Japanese>
+			<Russian>Максимальная высота для объектов, с которых может спрыгнуть игрок</Russian>
 		</Key>
 		<Key ID="STR_EMR_Main_SettingDisplayName_jumpVelocity">
 			<English>Jump velocity</English>
 			<Japanese>ジャンプの速度</Japanese>
+			<Russian>Скорость прыжка</Russian>
 		</Key>
 		<Key ID="STR_EMR_Main_SettingDescription_jumpVelocity">
 			<English>Super saiyan simulator</English>
 			<Japanese>スーパーサイヤ人シミュレーター! \n(訳注:これはジャンプ時にどれだけ跳ねるかを設定します)</Japanese>
+			<Russian>Симулятор сайгака</Russian>
 		</Key>
 		<Key ID="STR_EMR_Main_SettingDisplayName_allowMidairClimbing">
 			<English>Allow mid-air climbing</English>
 			<Japanese>空中でのよじ登りの許可</Japanese>
+			<Russian>Разрешить подъём при подъёме</Russian>
 		</Key>
 		<Key ID="STR_EMR_Main_SettingDescription_allowMidairClimbing">
 			<English>Allows using the climb action while falling or jumping up towards a ledge</English>
 			<Japanese>落下中やジャンプ中に崖につかまってよじ登ることができるようにします。</Japanese>
+			<Russian>Разрешает использовать подъём при падении или в прыжке</Russian>
 		</Key>
 		<Key ID="STR_EMR_Main_SettingDisplayName_blacklistStr">
 			<English>Object type blacklist</English>
 			<Japanese>オブジェクトのブラックリスト</Japanese>
+			<Russian>Чёрный список объектов</Russian>
 		</Key>
 		<Key ID="STR_EMR_Main_SettingDescription_blacklistStr">
 			<English>List of object classes that cannot be climbed on</English>
 			<Japanese>登ってほしくないオブジェクトのクラスネームを指定できます。</Japanese>
+			<Russian>Массив класснеймов на которые нельзя залезть</Russian>
 		</Key>
 		<Key ID="STR_EMR_Main_SettingDisplayName_whitelistStr">
 			<English>Object type whitelist</English>
 			<Japanese>オブジェクトのホワイトリスト</Japanese>
+			<Russian>Вайтлист объектов</Russian>
 		</Key>
 		<Key ID="STR_EMR_Main_SettingDescription_whitelistStr">
 			<English>Use to override config level blacklisting</English>
 			<Japanese>デフォルトで指定されたブラックリストを上書きすることができます。</Japanese>
+			<Russian>Используйте для перезаписи значений чёрного списка в конфиге</Russian>
 		</Key>
 		<Key ID="STR_EMR_Main_SettingDisplayName_preventHighVaulting">
 			<English>Prevent high edge vaulting</English>
 			<Japanese>崖での跳躍アクション防止</Japanese>
+			<Russian></Russian>
 		</Key>
 		<Key ID="STR_EMR_Main_SettingDescription_preventHighVaulting">
 			<English>When the player is above the max drop height, the vanilla vault action will be ignored. \n(Only works if 'vault' keybind is the same as 'climb/drop only')</English>
